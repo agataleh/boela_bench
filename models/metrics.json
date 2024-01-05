@@ -1,0 +1,434 @@
+{
+    "bbob.attractive_sector_2": {
+        "none": 85.0255203069711,
+        "R2_cv": 84.79248203796725,
+        "suitability_ext": 85.50712457029026,
+        "vm_angles_ext": 85.81854258221979
+    },
+    "bbob.bent_cigar_2": {
+        "none": 44673.07166415845,
+        "R2_cv": 41476.51331169141,
+        "suitability_ext": 33627.142985563325,
+        "vm_angles_ext": 58883.42061884623
+    },
+    "bbob.bueche_rastrigin_2": {
+        "none": 33.81392398996787,
+        "R2_cv": 31.897225849591752,
+        "suitability_ext": 30.29919055405792,
+        "vm_angles_ext": 30.10015030813381
+    },
+    "bbob.different_powers_2": {
+        "none": -57.48487152690597,
+        "R2_cv": -57.57412542657219,
+        "suitability_ext": -57.63270491482751,
+        "vm_angles_ext": -57.64534869722527
+    },
+    "bbob.discus_2": {
+        "none": 814.7536090688218,
+        "R2_cv": 192.97829720943548,
+        "suitability_ext": 5155.873908170145,
+        "vm_angles_ext": 919.488728212323
+    },
+    "bbob.ellipsoid_2": {
+        "none": 526.270058280858,
+        "R2_cv": 735.7964467561667,
+        "suitability_ext": 800.1597777167967,
+        "vm_angles_ext": 744.416669585809
+    },
+    "bbob.ellipsoid_rotated_2": {
+        "none": 390.2326022128237,
+        "R2_cv": 902.14076666786,
+        "suitability_ext": 3983.592945598367,
+        "vm_angles_ext": -14.986000500258688
+    },
+    "bbob.gallagher101_2": {
+        "none": 311.61734582905484,
+        "R2_cv": 311.66978017384776,
+        "suitability_ext": 311.6825559786499,
+        "vm_angles_ext": 311.7386519497627
+    },
+    "bbob.gallagher21_2": {
+        "none": 44.818865392769126,
+        "R2_cv": 44.20383329133673,
+        "suitability_ext": 44.887087775465275,
+        "vm_angles_ext": 45.30445567630018
+    },
+    "bbob.griewank_rosenbrock_2": {
+        "none": 41.84799334923084,
+        "R2_cv": 42.12408995728736,
+        "suitability_ext": 41.49108182595246,
+        "vm_angles_ext": 41.262246824943865
+    },
+    "bbob.katsuura_2": {
+        "none": 215.93147983764672,
+        "R2_cv": 215.37936369975557,
+        "suitability_ext": 216.62198512242628,
+        "vm_angles_ext": 216.06211731464413
+    },
+    "bbob.linear_slope_2": {
+        "none": 51.52999999999998,
+        "R2_cv": 51.52999999999998,
+        "suitability_ext": 51.52999999999998,
+        "vm_angles_ext": 51.52999999999998
+    },
+    "bbob.lunacek_bi_rastrigin_2": {
+        "none": 56.04485059247618,
+        "R2_cv": 55.73065619858258,
+        "suitability_ext": 53.3657353833886,
+        "vm_angles_ext": 55.13366324305185
+    },
+    "bbob.rastrigin_2": {
+        "none": 30.809765280792696,
+        "R2_cv": 31.626400492734405,
+        "suitability_ext": 31.334236003334173,
+        "vm_angles_ext": 29.438329761583784
+    },
+    "bbob.rastrigin_rotated_2": {
+        "none": -34.30397045665712,
+        "R2_cv": -37.27147885279439,
+        "suitability_ext": -37.46901603661416,
+        "vm_angles_ext": -38.307710959996115
+    },
+    "bbob.rosenbrock_2": {
+        "none": -123.87155021458136,
+        "R2_cv": -129.59168620883548,
+        "suitability_ext": -128.7929313243366,
+        "vm_angles_ext": -123.3660078773682
+    },
+    "bbob.rosenbrock_rotated_2": {
+        "none": -344.7395356612236,
+        "R2_cv": -352.0948084249918,
+        "suitability_ext": -354.407815324347,
+        "vm_angles_ext": -344.2262024485519
+    },
+    "bbob.schaffers10_2": {
+        "none": -36.89584630509673,
+        "R2_cv": -37.02718574036951,
+        "suitability_ext": -36.59910399207855,
+        "vm_angles_ext": -36.4773086168435
+    },
+    "bbob.schaffers1000_2": {
+        "none": -33.684650833368956,
+        "R2_cv": -31.732982046437755,
+        "suitability_ext": -31.158155060574003,
+        "vm_angles_ext": -30.804667694431483
+    },
+    "bbob.schwefel_2": {
+        "none": 185.64036645210305,
+        "R2_cv": 185.63407448450664,
+        "suitability_ext": 185.16366892501642,
+        "vm_angles_ext": 185.25090793160416
+    },
+    "bbob.sharp_ridge_2": {
+        "none": -29.52786401398609,
+        "R2_cv": -32.900900850948624,
+        "suitability_ext": -39.34364876854147,
+        "vm_angles_ext": -37.50162539048222
+    },
+    "bbob.sphere_2": {
+        "none": -92.64937680659746,
+        "R2_cv": -92.64971741945978,
+        "suitability_ext": -92.59807058568107,
+        "vm_angles_ext": -92.60162858996816
+    },
+    "bbob.step_ellipsoid_2": {
+        "none": -83.34531136885685,
+        "R2_cv": -83.15339316582451,
+        "suitability_ext": -83.06542940285573,
+        "vm_angles_ext": -83.06619364750361
+    },
+    "bbob.weierstrass_2": {
+        "none": -254.7285346100505,
+        "R2_cv": -257.5670963002797,
+        "suitability_ext": -255.37965809777262,
+        "vm_angles_ext": -254.32453174143768
+    },
+    "bbob.attractive_sector_4": {
+        "none": 104.43689372069474,
+        "R2_cv": 100.41195599155445,
+        "suitability_ext": 115.09402769737244,
+        "vm_angles_ext": 118.39856781053231
+    },
+    "bbob.bent_cigar_4": {
+        "none": 1195568.1861704087,
+        "R2_cv": 635936.0992956571,
+        "suitability_ext": 514896.57400053035,
+        "vm_angles_ext": 485550.03312704933
+    },
+    "bbob.bueche_rastrigin_4": {
+        "none": 92.40150434183117,
+        "R2_cv": 96.77899897590913,
+        "suitability_ext": 90.28463155937216,
+        "vm_angles_ext": 92.51059450910313
+    },
+    "bbob.different_powers_4": {
+        "none": -55.681152756023224,
+        "R2_cv": -55.98403574832868,
+        "suitability_ext": -56.65712464626221,
+        "vm_angles_ext": -56.5299232454973
+    },
+    "bbob.discus_4": {
+        "none": 1027.5836256736295,
+        "R2_cv": 816.0309391381257,
+        "suitability_ext": 848.8100432526629,
+        "vm_angles_ext": 557.4812027789989
+    },
+    "bbob.ellipsoid_4": {
+        "none": 11026.932624376872,
+        "R2_cv": 13938.814624090219,
+        "suitability_ext": 14552.648732537875,
+        "vm_angles_ext": 25741.247192210674
+    },
+    "bbob.ellipsoid_rotated_4": {
+        "none": 12609.295443249726,
+        "R2_cv": 15998.817876357163,
+        "suitability_ext": 18409.278368536445,
+        "vm_angles_ext": 17262.61470523318
+    },
+    "bbob.gallagher101_4": {
+        "none": 312.98711200401493,
+        "R2_cv": 313.9191522339565,
+        "suitability_ext": 313.30212976785305,
+        "vm_angles_ext": 313.00459382993483
+    },
+    "bbob.gallagher21_4": {
+        "none": 52.40577203978771,
+        "R2_cv": 50.7859515507036,
+        "suitability_ext": 49.66000624262528,
+        "vm_angles_ext": 50.31943342501302
+    },
+    "bbob.griewank_rosenbrock_4": {
+        "none": 44.685555137042364,
+        "R2_cv": 45.25643325809067,
+        "suitability_ext": 44.057284483038565,
+        "vm_angles_ext": 44.80274418407411
+    },
+    "bbob.katsuura_4": {
+        "none": 214.89326860284325,
+        "R2_cv": 215.1255915496627,
+        "suitability_ext": 215.40280708112041,
+        "vm_angles_ext": 214.88366539370026
+    },
+    "bbob.linear_slope_4": {
+        "none": 51.52999999999999,
+        "R2_cv": 51.52999999999999,
+        "suitability_ext": 51.52999999999999,
+        "vm_angles_ext": 51.52999999999999
+    },
+    "bbob.lunacek_bi_rastrigin_4": {
+        "none": 77.26292136464322,
+        "R2_cv": 70.41241155903678,
+        "suitability_ext": 69.39821485351209,
+        "vm_angles_ext": 70.1346572798548
+    },
+    "bbob.rastrigin_4": {
+        "none": 50.94650286884495,
+        "R2_cv": 46.3556627179403,
+        "suitability_ext": 46.897985582700095,
+        "vm_angles_ext": 47.03375630579367
+    },
+    "bbob.rastrigin_rotated_4": {
+        "none": -13.449011586950478,
+        "R2_cv": -20.31708080900294,
+        "suitability_ext": -22.221599414831267,
+        "vm_angles_ext": -19.617703398157566
+    },
+    "bbob.rosenbrock_4": {
+        "none": 276.21884998317245,
+        "R2_cv": 39.406982291247154,
+        "suitability_ext": 14.784997396349336,
+        "vm_angles_ext": 74.51739509129266
+    },
+    "bbob.rosenbrock_rotated_4": {
+        "none": -22.392788253028115,
+        "R2_cv": -196.950921773496,
+        "suitability_ext": -223.62335750403315,
+        "vm_angles_ext": -217.495929367555
+    },
+    "bbob.schaffers10_4": {
+        "none": -33.90949311429865,
+        "R2_cv": -35.06735713746443,
+        "suitability_ext": -35.53043579243385,
+        "vm_angles_ext": -35.505248967887425
+    },
+    "bbob.schaffers1000_4": {
+        "none": -21.60096551156447,
+        "R2_cv": -25.564490028202748,
+        "suitability_ext": -26.393173061278915,
+        "vm_angles_ext": -26.66446081765266
+    },
+    "bbob.schwefel_4": {
+        "none": 186.33375758428733,
+        "R2_cv": 186.6961286019609,
+        "suitability_ext": 185.96778853550123,
+        "vm_angles_ext": 186.23559709029738
+    },
+    "bbob.sharp_ridge_4": {
+        "none": -4.135049236012078,
+        "R2_cv": -18.88012215221194,
+        "suitability_ext": -21.015781732171746,
+        "vm_angles_ext": -29.98912605817922
+    },
+    "bbob.sphere_4": {
+        "none": -92.64808712305435,
+        "R2_cv": -92.64909554639878,
+        "suitability_ext": -92.63417255652712,
+        "vm_angles_ext": -92.61907412400356
+    },
+    "bbob.step_ellipsoid_4": {
+        "none": -79.2658223389715,
+        "R2_cv": -78.13082797166261,
+        "suitability_ext": -81.00590230766704,
+        "vm_angles_ext": -80.93918919390154
+    },
+    "bbob.weierstrass_4": {
+        "none": -251.16429809386722,
+        "R2_cv": -249.2541069223526,
+        "suitability_ext": -246.52657886744527,
+        "vm_angles_ext": -248.17778517834492
+    },
+    "bbob.attractive_sector_8": {
+        "none": 157.11401754204456,
+        "R2_cv": 143.91296653052558,
+        "suitability_ext": 129.57942426451797,
+        "vm_angles_ext": 134.54657643260066
+    },
+    "bbob.bent_cigar_8": {
+        "none": 21996190.6998198,
+        "R2_cv": 21830374.66732989,
+        "suitability_ext": 21955829.60079148,
+        "vm_angles_ext": 19618101.68143983
+    },
+    "bbob.bueche_rastrigin_8": {
+        "none": 207.34668014766024,
+        "R2_cv": 176.02565091093862,
+        "suitability_ext": 195.0024846677399,
+        "vm_angles_ext": 189.02742690492752
+    },
+    "bbob.different_powers_8": {
+        "none": -52.27029943962335,
+        "R2_cv": -54.313180289506654,
+        "suitability_ext": -53.51453336687794,
+        "vm_angles_ext": -54.33886707899244
+    },
+    "bbob.discus_8": {
+        "none": 594.0629679188129,
+        "R2_cv": 3319.248087870593,
+        "suitability_ext": 1613.3063161152472,
+        "vm_angles_ext": 1182.5577057677415
+    },
+    "bbob.ellipsoid_8": {
+        "none": 378535.9933471754,
+        "R2_cv": 275538.9253688862,
+        "suitability_ext": 258367.20703397057,
+        "vm_angles_ext": 191430.6410370067
+    },
+    "bbob.ellipsoid_rotated_8": {
+        "none": 148339.47603810823,
+        "R2_cv": 147652.38573445106,
+        "suitability_ext": 99204.15843647333,
+        "vm_angles_ext": 85180.01035840662
+    },
+    "bbob.gallagher101_8": {
+        "none": 321.8443943443959,
+        "R2_cv": 323.78248571059373,
+        "suitability_ext": 320.2221047086957,
+        "vm_angles_ext": 320.18874477321657
+    },
+    "bbob.gallagher21_8": {
+        "none": 54.2540020027744,
+        "R2_cv": 52.88521168922357,
+        "suitability_ext": 55.87713376260542,
+        "vm_angles_ext": 52.991672263302945
+    },
+    "bbob.griewank_rosenbrock_8": {
+        "none": 48.00947154078493,
+        "R2_cv": 45.65371254956296,
+        "suitability_ext": 46.996300276604615,
+        "vm_angles_ext": 47.067142402518904
+    },
+    "bbob.katsuura_8": {
+        "none": 214.4022648523,
+        "R2_cv": 214.38686445812493,
+        "suitability_ext": 214.30617338873685,
+        "vm_angles_ext": 214.36262660406894
+    },
+    "bbob.linear_slope_8": {
+        "none": 51.52999999999999,
+        "R2_cv": 51.52999999999999,
+        "suitability_ext": 51.52999999999999,
+        "vm_angles_ext": 51.52999999999999
+    },
+    "bbob.lunacek_bi_rastrigin_8": {
+        "none": 113.35044726249897,
+        "R2_cv": 103.99156613332819,
+        "suitability_ext": 104.94837676375093,
+        "vm_angles_ext": 105.10599924456035
+    },
+    "bbob.rastrigin_8": {
+        "none": 159.97628266704368,
+        "R2_cv": 153.70204348161016,
+        "suitability_ext": 137.72940121202703,
+        "vm_angles_ext": 144.00089190268434
+    },
+    "bbob.rastrigin_rotated_8": {
+        "none": 38.85699381928306,
+        "R2_cv": 26.137198679807792,
+        "suitability_ext": 24.58598151599755,
+        "vm_angles_ext": 34.463962891862614
+    },
+    "bbob.rosenbrock_8": {
+        "none": 1147.088790761098,
+        "R2_cv": 621.8750176071088,
+        "suitability_ext": 362.57514324740606,
+        "vm_angles_ext": 783.3851646038494
+    },
+    "bbob.rosenbrock_rotated_8": {
+        "none": 566.3030226578448,
+        "R2_cv": 199.75637183497,
+        "suitability_ext": 433.8922572604961,
+        "vm_angles_ext": 405.22890892542574
+    },
+    "bbob.schaffers10_8": {
+        "none": -32.62695348483307,
+        "R2_cv": -35.08616966788455,
+        "suitability_ext": -33.2144528579148,
+        "vm_angles_ext": -34.28363249164543
+    },
+    "bbob.schaffers1000_8": {
+        "none": -17.190056562071337,
+        "R2_cv": -24.1396158034461,
+        "suitability_ext": -18.680188919514414,
+        "vm_angles_ext": -24.121200124274928
+    },
+    "bbob.schwefel_8": {
+        "none": 196.615660910972,
+        "R2_cv": 188.9590352356883,
+        "suitability_ext": 189.0650800772674,
+        "vm_angles_ext": 209.48718333468503
+    },
+    "bbob.sharp_ridge_8": {
+        "none": 51.92194701087978,
+        "R2_cv": -43.23825737675864,
+        "suitability_ext": -31.424082270406508,
+        "vm_angles_ext": -16.58682660832849
+    },
+    "bbob.sphere_8": {
+        "none": -92.64074752910511,
+        "R2_cv": -92.64640192470246,
+        "suitability_ext": -92.64397172118088,
+        "vm_angles_ext": -92.63289516912175
+    },
+    "bbob.step_ellipsoid_8": {
+        "none": -41.0188864468344,
+        "R2_cv": -41.711966087111215,
+        "suitability_ext": -44.53436184886973,
+        "vm_angles_ext": -58.41416239428122
+    },
+    "bbob.weierstrass_8": {
+        "none": -243.58416996379586,
+        "R2_cv": -240.0494562167408,
+        "suitability_ext": -243.6933300851739,
+        "vm_angles_ext": -245.85126072568934
+    }
+}

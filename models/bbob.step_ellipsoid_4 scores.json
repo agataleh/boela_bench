@@ -1,0 +1,6 @@
+{
+    "score_train": 0.5841062801932367,
+    "score_test": 0.58,
+    "score_cv": 0.4321,
+    "depth_cv": 6
+}
